@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Siyu Gao 👋
 
-<!--
-**siyu-gao-portfolio/siyu-gao-portfolio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I hold a Ph.D. in Applied Mathematics and am building skills in data analytics and data science.
 
-Here are some ideas to get you started:
+## Background
+- Ph.D. in Applied Mathematics
+- Research experience in differential equations and dynamical systems
+- Experience with mathematical modeling and computational methods
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+- **SQL:** Currently learning
+- **Python:** Currently learning
+
+## Interests
+- Data Analytics
+- Data Science
+- Applied Mathematics
+- Computational Modeling
+
+## Projects
+Coming soon!
